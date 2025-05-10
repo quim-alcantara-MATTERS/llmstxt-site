@@ -1370,8 +1370,8 @@
     },
     {
         "product": "Future-First Design",
-        "website": "https://future-first-design.vercel.app/",
-        "llms-txt": "https://future-first-design.vercel.app/llms.txt",
+        "website": "https://future-first-design.netlify.app/",
+        "llms-txt": "https://future-first-design.netlify.app/llms.txt",
         "llms-txt-tokens": null,
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
