@@ -1575,6 +1575,12 @@
         "llms-txt": "https://www.tip.md/llms.txt",
         "llms-txt-tokens": null
     },
+   {
+      "product": "Journee",
+      "website": "https://journee.gg/",
+      "llms-full-txt": "",
+      "llms-txt": "https://journee.gg/llms.txt"
+    },
     {
       "product": "Adobe Experience Manager",
       "website": "https://www.aem.live/",
@@ -1582,17 +1588,11 @@
       "llms-txt-tokens": null,
       "llms-full-txt": "",
       "llms-full-txt-tokens": null
-    }
+    },
     {
         "product": "Yoast",
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
     }
-    {
-  "product": "Journee",
-  "website": "https://journee.gg/",
-  "llms-full-txt": "",
-  "llms-txt": "https://journee.gg/llms.txt"
-}
 ]
