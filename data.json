@@ -1,5 +1,13 @@
 [
     {
+        "product": "PromptPilot",
+        "website": "https://promptpilot.online/",
+        "llms-full-txt": "https://promptpilot.online/llms-full.txt",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://promptpilot.online/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Mailmodo",
         "website": "https://www.mailmodo.com/",
         "llms-full-txt": "",
