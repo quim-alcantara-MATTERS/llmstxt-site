@@ -1,5 +1,13 @@
 [
     {
+        "product": "SAndra von Gneisenau Salon",
+        "website": "https://www.sandravongneisenau.de",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.sandravongneisenau.de/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Mailmodo",
         "website": "https://www.mailmodo.com/",
         "llms-full-txt": "",
