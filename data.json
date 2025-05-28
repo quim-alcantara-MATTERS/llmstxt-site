@@ -1588,5 +1588,11 @@
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
+    },
+    {
+        "product": "Strapi",
+        "website": "https://strapi.io/",
+        "llms-full-txt": "https://docs.strapi.io/llms-full.txt",
+        "llms-txt": "https://docs.strapi.io/llms.txt"
     }
 ]
