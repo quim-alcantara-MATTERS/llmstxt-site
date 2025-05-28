@@ -14,16 +14,16 @@
         "llms-full-txt-tokens": null,
         "llms-txt": "https://bun.sh/llms.txt",
         "llms-txt-tokens": null
-   },
-   {
+    },
+    {
         "product": "Himalayas",
         "website": "https://himalayas.app/",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://himalayas.app/llms.txt",
         "llms-txt-tokens": null
-   },
-   {
+    },
+    {
         "product": "Cosmic",
         "website": "https://www.cosmicjs.com",
         "llms-txt": "https://www.cosmicjs.com/docs/llms.txt",
@@ -31,31 +31,31 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     },
-   {
-       "product": "Herd",
-       "website": "https://herd.garden/",
-       "llms-txt": "https://herd.garden/llms.txt",
-       "llms-txt-tokens": 7305,
-       "llms-full-txt": "https://herd.garden/llms-full.txt",
-       "llms-full-txt-tokens": 35206
-   },
-   {
+    {
+        "product": "Herd",
+        "website": "https://herd.garden/",
+        "llms-txt": "https://herd.garden/llms.txt",
+        "llms-txt-tokens": 7305,
+        "llms-full-txt": "https://herd.garden/llms-full.txt",
+        "llms-full-txt-tokens": 35206
+    },
+    {
         "product": "PaperGraderPro",
         "website": "https://papergraderpro.com/",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://papergraderpro.com/llms.txt",
         "llms-txt-tokens": 353
-   },
-   {
+    },
+    {
         "product": "Bika.ai",
         "website": "https://bika.ai/",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://bika.ai/llms.txt",
         "llms-txt-tokens": 541
-   },
-   {
+    },
+    {
         "product": "Azumuta",
         "website": "https://www.azumuta.com/",
         "llms-full-txt": "",
@@ -186,7 +186,7 @@
     {
         "product": "Cloudflare",
         "website": "https://developers.cloudflare.com",
-        "llms-txt": "https://developers.cloudflare.com/llms.txt"
+        "llms-txt": "https://developers.cloudflare.com/llms.txt",
         "llms-full-txt": ""
     },
     {
@@ -732,12 +732,12 @@
         "llms-txt-tokens": 1697
     },
     {
-         "product": "Needle Engine",
-         "website": "https://needle.tools/",
-         "llms-full-txt": "https://cloud.needle.tools/llms-full.txt",
-         "llms-full-txt-tokens": 93201,
-         "llms-txt": "https://cloud.needle.tools/llms.txt",
-         "llms-txt-tokens": 819
+        "product": "Needle Engine",
+        "website": "https://needle.tools/",
+        "llms-full-txt": "https://cloud.needle.tools/llms-full.txt",
+        "llms-full-txt-tokens": 93201,
+        "llms-txt": "https://cloud.needle.tools/llms.txt",
+        "llms-txt-tokens": 819
     },
     {
         "product": "Neon",
@@ -866,12 +866,12 @@
         "llms-txt-tokens": 3755
     },
     {
-      "product": "Reown",
-      "website": "https://docs.reown.com",
-      "llms-full-txt": "https://docs.reown.com/llms-full.txt",
-      "llms-full-txt-tokens": 403077,
-      "llms-txt": "https://docs.reown.com/llms.txt",
-      "llms-txt-tokens": 16581
+        "product": "Reown",
+        "website": "https://docs.reown.com",
+        "llms-full-txt": "https://docs.reown.com/llms-full.txt",
+        "llms-full-txt-tokens": 403077,
+        "llms-txt": "https://docs.reown.com/llms.txt",
+        "llms-txt-tokens": 16581
     },
     {
         "product": "Roc",
@@ -961,7 +961,7 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     },
-   {
+    {
         "product": "Starwind UI",
         "website": "https://starwind.dev/",
         "llms-txt": "https://starwind.dev/llms.txt",
@@ -1359,10 +1359,10 @@
         "llms-full-txt": ""
     },
     {
-       "product": "Wheelhouse DMG",
-       "website": "https://www.wheelhousedmg.com/",
-       "llms-txt": "https://www.wheelhousedmg.com/llms.txt",
-       "llms-txt-tokens": 2101
+        "product": "Wheelhouse DMG",
+        "website": "https://www.wheelhousedmg.com/",
+        "llms-txt": "https://www.wheelhousedmg.com/llms.txt",
+        "llms-txt-tokens": 2101
     },
     {
         "product": "Giles' Blog",
@@ -1405,14 +1405,14 @@
         "llms-full-txt-tokens": 82000
     },
     {
-       "product": "SankeyDiagram.net",
-       "website": "https://sankeydiagram.net/",
-       "llms-full-txt": "",
-       "llms-full-txt-tokens": null,
-       "llms-txt": "https://sankeydiagram.net/llms.txt",
-       "llms-txt-tokens": null
-   },
-   {
+        "product": "SankeyDiagram.net",
+        "website": "https://sankeydiagram.net/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://sankeydiagram.net/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
         "product": "Prisma",
         "website": "https://prisma.io",
         "llms-full-txt": "https://prisma.io/llms-full.txt",
@@ -1473,25 +1473,25 @@
         "llms-full-txt-tokens": null
     },
     {
-      "product": "AgentQL",
-      "website": "https://agentql.com/",
-      "llms-txt": "https://docs.agentql.com/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
-      "llms-full-txt-tokens": 60771
+        "product": "AgentQL",
+        "website": "https://agentql.com/",
+        "llms-txt": "https://docs.agentql.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
+        "llms-full-txt-tokens": 60771
     },
     {
-      "product": "Coolify",
-      "website": "https://coolify.io/",
-      "llms-txt": "https://coolify.io/docs/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "https://coolify.io/docs/llms-full.txt",
+        "product": "Coolify",
+        "website": "https://coolify.io/",
+        "llms-txt": "https://coolify.io/docs/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://coolify.io/docs/llms-full.txt"
     },
     {
-      "product": "ApyHub",
-      "website": "https://apyhub.com/",
-      "llms-txt": "https://apyhub.com/llms.txt",
-      "llms-full-txt": ""
+        "product": "ApyHub",
+        "website": "https://apyhub.com/",
+        "llms-txt": "https://apyhub.com/llms.txt",
+        "llms-full-txt": ""
     },
     {
         "product": "Chainspect",
@@ -1502,43 +1502,43 @@
         "llms-full-txt-tokens": null
     },
     {
-      "product": "Pass App",
-      "website": "https://pass.app/",
-      "llms-full-txt": "https://pass.app/llms.txt",
-      "llms-txt-tokens": 926,
-      "llms-txt": ""      
+        "product": "Pass App",
+        "website": "https://pass.app/",
+        "llms-full-txt": "https://pass.app/llms.txt",
+        "llms-txt-tokens": 926,
+        "llms-txt": ""
     },
     {
-      "product": "SVGViewer.app",
-      "website": "https://svgviewer.app/",
-      "llms-txt": "https://svgviewer.app/llms.txt",
-      "llms-txt-tokens": 494,
-      "llms-full-txt": "https://svgviewer.app/llms-full.txt",
-      "llms-full-txt-tokens": 1312
+        "product": "SVGViewer.app",
+        "website": "https://svgviewer.app/",
+        "llms-txt": "https://svgviewer.app/llms.txt",
+        "llms-txt-tokens": 494,
+        "llms-full-txt": "https://svgviewer.app/llms-full.txt",
+        "llms-full-txt-tokens": 1312
     },
     {
-      "product": "QwQ AI",
-      "website": "https://qwq32.com/",
-      "llms-txt": "https://qwq32.com/llms.txt",
-      "llms-txt-tokens": 260,
-      "llms-full-txt": "https://qwq32.com/llms-full.txt",
-      "llms-full-txt-tokens": 260
+        "product": "QwQ AI",
+        "website": "https://qwq32.com/",
+        "llms-txt": "https://qwq32.com/llms.txt",
+        "llms-txt-tokens": 260,
+        "llms-full-txt": "https://qwq32.com/llms-full.txt",
+        "llms-full-txt-tokens": 260
     },
     {
-      "product": "BestFreeAI",
-      "website": "https://bestfreeai.net/",
-      "llms-txt": "https://bestfreeai.net/llms.txt",
-      "llms-txt-tokens": 58670,
-      "llms-full-txt": "",
-      "llms-full-txt-tokens": null
+        "product": "BestFreeAI",
+        "website": "https://bestfreeai.net/",
+        "llms-txt": "https://bestfreeai.net/llms.txt",
+        "llms-txt-tokens": 58670,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
-      "product": "LogLayer",
-      "website": "https://loglayer.dev/",
-      "llms-txt": "https://loglayer.dev/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "https://loglayer.dev/llms-full.txt",
-      "llms-full-txt-tokens": null
+        "product": "LogLayer",
+        "website": "https://loglayer.dev/",
+        "llms-txt": "https://loglayer.dev/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://loglayer.dev/llms-full.txt",
+        "llms-full-txt-tokens": null
     },
     {
         "product": "Orma.digital",
@@ -1576,17 +1576,25 @@
         "llms-txt-tokens": null
     },
     {
-      "product": "Adobe Experience Manager",
-      "website": "https://www.aem.live/",
-      "llms-txt": "https://www.aem.live/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "",
-      "llms-full-txt-tokens": null
-    }
+        "product": "Adobe Experience Manager",
+        "website": "https://www.aem.live/",
+        "llms-txt": "https://www.aem.live/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
     {
         "product": "Yoast",
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
+    },
+    {
+        "product": "CitizenShipper",
+        "website": "https://citizenshipper.com",
+        "llms-txt": "https://citizenshipper.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     }
 ]
