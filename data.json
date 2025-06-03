@@ -898,6 +898,12 @@
         "llms-txt-tokens": 1473
     },
     {
+        "product": "Sanity",
+        "website": "https://www.sanity.com/",
+        "llms-full-txt": "https://www.sanity.io/docs/llms-full.txt",
+        "llms-txt": "https://www.sanity.io/docs/llms.txt"
+    },
+    {
         "product": "Sardine",
         "website": "https://sardine.ai/",
         "llms-full-txt": "https://docs.sardine.ai/llms-full.txt",
