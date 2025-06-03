@@ -1582,11 +1582,17 @@
       "llms-txt-tokens": null,
       "llms-full-txt": "",
       "llms-full-txt-tokens": null
-    }
+    },
     {
         "product": "Yoast",
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
-    }
+    },
+    {
+    "product": "Superblog",
+    "website": "https://superblog.ai",
+    "llms-full-txt": "",
+    "llms-txt": "https://superblog.ai/docs/llms.txt"
+  }
 ]
