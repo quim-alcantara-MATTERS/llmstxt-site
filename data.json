@@ -1847,10 +1847,18 @@
         "llms-txt": "https://yoast.com/llms.txt"
     },
     {
-      "product": "Superblog",
-      "website": "https://superblog.ai",
-      "llms-full-txt": "",
-      "llms-txt": "https://superblog.ai/docs/llms.txt"
+        "product": "Jam.dev",
+        "website": "https://jam.dev/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://jam.dev/docs/llms.txt",
+        "llms-txt-tokens": null
+    },
+    {
+        "product": "Superblog",
+        "website": "https://superblog.ai",
+        "llms-full-txt": "",
+        "llms-txt": "https://superblog.ai/docs/llms.txt"
     },
     {
         "product": "CitizenShipper",
