@@ -1847,6 +1847,12 @@
         "llms-txt": "https://yoast.com/llms.txt"
     },
     {
+      "product": "Superblog",
+      "website": "https://superblog.ai",
+      "llms-full-txt": "",
+      "llms-txt": "https://superblog.ai/docs/llms.txt"
+    },
+    {
         "product": "CitizenShipper",
         "website": "https://citizenshipper.com",
         "llms-txt": "https://citizenshipper.com/llms.txt",
