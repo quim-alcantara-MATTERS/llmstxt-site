@@ -1603,6 +1603,12 @@
         "llms-full-txt": "https://coolify.io/docs/llms-full.txt"
     },
     {
+        "product": "ApyHub",
+        "website": "https://apyhub.com/",
+        "llms-txt": "https://apyhub.com/llms.txt",
+        "llms-full-txt": ""
+    },
+    {
         "product": "devunus",
         "website": "https://devunus.com/",
         "llms-txt": "https://docs.devunus.com/llms.txt",
@@ -1649,6 +1655,37 @@
         "llms-full-txt": "https://pass.app/llms.txt",
         "llms-txt-tokens": 926,
         "llms-txt": ""
+    },
+    {
+        "product": "SVGViewer.app",
+        "website": "https://svgviewer.app/",
+        "llms-txt": "https://svgviewer.app/llms.txt",
+        "llms-txt-tokens": 494,
+        "llms-full-txt": "https://svgviewer.app/llms-full.txt",
+        "llms-full-txt-tokens": 1312
+    },
+    {
+        "product": "QwQ AI",
+        "website": "https://qwq32.com/",
+        "llms-txt": "https://qwq32.com/llms.txt",
+        "llms-txt-tokens": 260,
+        "llms-full-txt": "https://qwq32.com/llms-full.txt",
+        "llms-full-txt-tokens": 260
+    },
+    {
+        "product": "BestFreeAI",
+        "website": "https://bestfreeai.net/",
+        "llms-txt": "https://bestfreeai.net/llms.txt",
+        "llms-txt-tokens": 58670,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "LogLayer",
+        "website": "https://loglayer.dev/",
+        "llms-txt": "https://loglayer.dev/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://loglayer.dev/llms-full.txt",
     },
     {
         "product": "SVGViewer.app",
@@ -1762,6 +1799,14 @@
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
+    },
+    {
+        "product": "CitizenShipper",
+        "website": "https://citizenshipper.com",
+        "llms-txt": "https://citizenshipper.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
         "product": "Strapi",
