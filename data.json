@@ -4,15 +4,15 @@
         "website": "https://www.bolsozluk.com/",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
-        "llms-txt": "https://www.bolsozluk.com/llms.txt",
+        "llms-txt": "https://www.bolsozluk.com/llms.txt"
     },
     {
-      "product": "All About AI",
-      "website": "https://www.allaboutai.com/",
-      "llms-txt": "https://www.allaboutai.com/llm.txt",
-      "llms-full-txt": "",
-      "tokens": 0,
-      "llms-full-txt-tokens": 0
+        "product": "All About AI",
+        "website": "https://www.allaboutai.com/",
+        "llms-txt": "https://www.allaboutai.com/llm.txt",
+        "llms-full-txt": "",
+        "tokens": 0,
+        "llms-full-txt-tokens": 0
     },
     {
         "product": "Software Testing Services",
@@ -1570,11 +1570,11 @@
         "llms-full-txt-tokens": 60771
     },
     {
-      "product": "Coolify",
-      "website": "https://coolify.io/",
-      "llms-txt": "https://coolify.io/docs/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "https://coolify.io/docs/llms-full.txt"
+        "product": "Coolify",
+        "website": "https://coolify.io/",
+        "llms-txt": "https://coolify.io/docs/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://coolify.io/docs/llms-full.txt"
     },
     {
         "product": "devunus",
@@ -1700,12 +1700,12 @@
         "llms-txt-tokens": null
     },
     {
-      "product": "Adobe Experience Manager",
-      "website": "https://www.aem.live/",
-      "llms-txt": "https://www.aem.live/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "",
-      "llms-full-txt-tokens": null
+        "product": "Adobe Experience Manager",
+        "website": "https://www.aem.live/",
+        "llms-txt": "https://www.aem.live/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
         "product": "Adobe Experience Manager",
@@ -1757,7 +1757,7 @@
         "llms-full-txt": "",
         "llms-full-txt-tokens": null
     },
-    {     
+    {
         "product": "BEN'S Plumbing & HVAC Services in Seattle",
         "website": "https://bens.plumbing/",
         "llms-txt": "https://bens.plumbing/llms.txt",
@@ -1788,11 +1788,17 @@
         "website": "https://www.ohdiary.com/",
         "llms-full-txt": "",
         "llms-txt": "https://www.ohdiary.com/llms.txt"
-    }
+    },
     {
         "product": "Estrategia del Contenido",
         "website": "https://www.estrategiadelcontenido.com/",
         "llms-full-txt": "",
         "llms-txt": "https://www.estrategiadelcontenido.com/llms.txt"
+    },
+    {
+        "product": "Tenthe AI Dictionary",
+        "website": "https://tenthe.com/",
+        "llms-txt": "https://tenthe.com/llms.txt",
+        "llms-full-txt": "https://tenthe.com/llms-full.txt"
     }
 ]
