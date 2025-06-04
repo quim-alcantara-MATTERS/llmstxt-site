@@ -4,21 +4,21 @@
         "website": "https://bestofthebone.com/",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
-        "llms-txt": "https://bestofthebone.com/apps/llmstxt/llms.txt",
+        "llms-txt": "https://bestofthebone.com/apps/llmstxt/llms.txt"
     },
     {
         "product": "PromptPilot",
         "website": "https://promptpilot.online/",
         "llms-full-txt": "https://promptpilot.online/llms-full.txt",
         "llms-full-txt-tokens": null,
-        "llms-txt": "https://promptpilot.online/llms.txt",
+        "llms-txt": "https://promptpilot.online/llms.txt"
     },
     {
         "product": "Sandra von Gneisenau Salon",
         "website": "https://www.sandravongneisenau.de",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
-        "llms-txt": "https://www.sandravongneisenau.de/llms.txt",
+        "llms-txt": "https://www.sandravongneisenau.de/llms.txt"
     },
     {
         "product": "CircleCI",
@@ -44,7 +44,7 @@
         "product": "All About AI",
         "website": "https://www.allaboutai.com/",
         "llms-txt": "https://www.allaboutai.com/llm.txt",
-        "llms-full-txt": "",
+        "llms-full-txt": ""
     },
     {
         "product": "Software Testing Services",
@@ -1717,7 +1717,7 @@
         "website": "https://loglayer.dev/",
         "llms-txt": "https://loglayer.dev/llms.txt",
         "llms-txt-tokens": null,
-        "llms-full-txt": "https://loglayer.dev/llms-full.txt",
+        "llms-full-txt": "https://loglayer.dev/llms-full.txt"
     },
     {
         "product": "SVGViewer.app",
@@ -1794,19 +1794,19 @@
         "llms-txt": "https://www.tip.md/llms.txt",
         "llms-txt-tokens": null
     },
-   {
-      "product": "Journee",
-      "website": "https://journee.gg/",
-      "llms-full-txt": "",
-      "llms-txt": "https://journee.gg/llms.txt"
+    {
+        "product": "Journee",
+        "website": "https://journee.gg/",
+        "llms-full-txt": "",
+        "llms-txt": "https://journee.gg/llms.txt"
     },
     {
-      "product": "Adobe Experience Manager",
-      "website": "https://www.aem.live/",
-      "llms-txt": "https://www.aem.live/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "",
-      "llms-full-txt-tokens": null
+        "product": "Adobe Experience Manager",
+        "website": "https://www.aem.live/",
+        "llms-txt": "https://www.aem.live/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
         "product": "Adobe Experience Manager",
