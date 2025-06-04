@@ -1,5 +1,12 @@
 [
     {
+        "product": "Best Of The Bone",
+        "website": "https://bestofthebone.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://bestofthebone.com/apps/llmstxt/llms.txt",
+    },
+    {
         "product": "PromptPilot",
         "website": "https://promptpilot.online/",
         "llms-full-txt": "https://promptpilot.online/llms-full.txt",
