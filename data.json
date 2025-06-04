@@ -1679,6 +1679,12 @@
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
+    }
+    {
+        "product": "HYPESTUDIO",
+        "website": "https://hypestudio.org/",
+        "llms-full-txt": "",
+        "llms-txt": "https://hypestudio.org/llms.txt"
     },
     {
         "product": "OhDiary",
