@@ -1762,6 +1762,20 @@
         "llms-txt": "https://www.tip.md/llms.txt",
         "llms-txt-tokens": null
     },
+   {
+      "product": "Journee",
+      "website": "https://journee.gg/",
+      "llms-full-txt": "",
+      "llms-txt": "https://journee.gg/llms.txt"
+    },
+    {
+      "product": "Adobe Experience Manager",
+      "website": "https://www.aem.live/",
+      "llms-txt": "https://www.aem.live/llms.txt",
+      "llms-txt-tokens": null,
+      "llms-full-txt": "",
+      "llms-full-txt-tokens": null
+    },
     {
         "product": "Adobe Experience Manager",
         "website": "https://www.aem.live/",
