@@ -176,6 +176,12 @@
         "llms-txt-tokens": null
     },
     {
+        "product": "Checkly",
+        "website": "https://checklyhq.com/",
+        "llms-full-txt": "",
+        "llms-txt": "https://docs.checklyhq.com/llms.txt"
+    },
+    {
         "product": "CipherStash",
         "website": "https://cipherstash.com",
         "llms-txt": "https://cipherstash.com/llms.txt",
