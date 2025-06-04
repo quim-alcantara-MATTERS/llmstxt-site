@@ -1738,6 +1738,12 @@
         "llms-txt": "https://yoast.com/llms.txt"
     },
     {
+        "product": "Pursuit",
+        "website": "https://pursuit.us/",
+        "llms-full-txt": "",
+        "llms-txt": "https://app.pursuit.us/llms.txt"
+    },
+    {
         "product": "TransitionZero",
         "website": "https://transitionzero.org/",
         "llms-full-txt": "https://docs.transitionzero.org/llms-full.txt",
