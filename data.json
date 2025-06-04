@@ -1,9 +1,16 @@
 [
     {
-    "product": "Hostinger",
-    "website": "https://hostinger.com/",
-    "llms-full-txt": "https://www.hostinger.com/llms_full.txt",
-    "llms-txt": "https://www.hostinger.com/llms.txt"
+        "product": "CircleCI",
+        "website": "https://circleci.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://circleci.com/llms.txt"
+    },
+    {
+        "product": "Hostinger",
+        "website": "https://hostinger.com/",
+        "llms-full-txt": "https://www.hostinger.com/llms_full.txt",
+        "llms-txt": "https://www.hostinger.com/llms.txt"
     },
     {
         "product": "Bol Sozluk",
