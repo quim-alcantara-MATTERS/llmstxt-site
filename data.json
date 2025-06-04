@@ -1,5 +1,12 @@
 [
     {
+        "product": "Bol Sozluk",
+        "website": "https://www.bolsozluk.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.bolsozluk.com/llms.txt",
+    },
+    {
       "product": "All About AI",
       "website": "https://www.allaboutai.com/",
       "llms-txt": "https://www.allaboutai.com/llm.txt",
