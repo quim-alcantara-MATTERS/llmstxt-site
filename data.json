@@ -1519,8 +1519,16 @@
       "product": "Coolify",
       "website": "https://coolify.io/",
       "llms-txt": "https://coolify.io/docs/llms.txt",
-      "llms-txt-tokens": null,
       "llms-full-txt": "https://coolify.io/docs/llms-full.txt"
+      "llms-txt-tokens": null
+    },
+    {
+        "product": "DataForSEO",
+        "website": "https://docs.dataforseo.com/v3/",
+        "llms-txt": "https://docs.dataforseo.com/v3/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null     
     },
     {
         "product": "Future-First Design",
