@@ -6,30 +6,43 @@
     "llms-txt": "https://www.hostinger.com/llms.txt"
     },
     {
+        "product": "Bol Sozluk",
+        "website": "https://www.bolsozluk.com/",
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null,
+        "llms-txt": "https://www.bolsozluk.com/llms.txt"
+    },
+    {
+        "product": "All About AI",
+        "website": "https://www.allaboutai.com/",
+        "llms-txt": "https://www.allaboutai.com/llm.txt",
+        "llms-full-txt": "",
+    },
+    {
         "product": "Software Testing Services",
         "website": "https://www.bjstos.com/",
         "llms-full-txt": "https://www.bjstos.com/llms-full.txt",
-        "llms-full-txt-tokens": 668029 ,
+        "llms-full-txt-tokens": 668029,
         "llms-txt": "https://www.bjstos.com/llms.txt",
         "llms-txt-tokens": 16472
     },
-   {
+    {
         "product": "Teambridge",
         "website": "https://teambridge.com/",
         "llms-full-txt": "",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://teambridge.com/llms.txt",
         "llms-txt-tokens": null
-   },
-   {
+    },
+    {
         "product": "StockPredictAI",
         "website": "https://www.aipredictstock.com/",
         "llms-full-txt": "https://www.aipredictstock.com/llms-full.txt",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://www.aipredictstock.com/llms.txt",
         "llms-txt-tokens": null
-   },    
-   {
+    },
+    {
         "product": "Mailmodo",
         "website": "https://www.mailmodo.com/",
         "llms-full-txt": "",
@@ -598,10 +611,8 @@
     {
         "product": "Liam ERD",
         "website": "https://liambx.com/",
-        "llms-txt": "",
-        "llms-txt-tokens": null,
-        "llms-full-txt": "https://liambx.com/docs/llms-full.txt",
-        "llms-full-txt-tokens": 8831
+        "llms-txt": "https://liambx.com/docs/llms.txt",
+        "llms-full-txt": "https://liambx.com/docs/llms-full.txt"
     },
     {
         "product": "LambdaTest",
@@ -678,6 +689,14 @@
         "llms-full-txt-tokens": null,
         "llms-txt": "https://open.longportapp.com/llms.txt",
         "llms-txt-tokens": 2492
+    },
+    {
+        "product": "Lunacy",
+        "website": "https://icons8.com/lunacy",
+        "llms-full-txt": "https://lunacy.docs.icons8.com/llms-full.txt",
+        "llms-full-txt-tokens": "",
+        "llms-txt": "https://lunacy.docs.icons8.com/llms.txt",
+        "llms-txt-tokens": ""
     },
     {
         "product": "LuxAlgo",
@@ -934,6 +953,12 @@
         "llms-txt": "https://lib.rsbuild.dev/llms.txt"
     },
     {
+        "product": "Rierino",
+        "website": "https://rierino.com/",
+        "llms-full-txt": "",
+        "llms-txt": "https://rierino.com/llms.txt"
+    },
+    {
         "product": "Roc",
         "website": "https://roc-lang.org/",
         "llms-txt": "https://www.roc-lang.org/llms.txt",
@@ -1004,6 +1029,14 @@
         "llms-full-txt-tokens": 108178,
         "llms-txt": "https://smartcar.com/docs/llms.txt",
         "llms-txt-tokens": 5687
+    },
+    {
+        "product": "Sociality.io",
+        "website": "https://sociality.io/",
+        "llms-txt": "https://sociality.io/llms.txt",
+        "llms-txt-tokens": 1141,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
         "product": "Solid",
@@ -1533,13 +1566,19 @@
         "llms-full-txt-tokens": null
     },
     {
-
         "product": "AgentQL",
         "website": "https://agentql.com/",
         "llms-txt": "https://docs.agentql.com/llms.txt",
         "llms-txt-tokens": null,
         "llms-full-txt": "https://docs.agentql.com/llms-full.txt",
         "llms-full-txt-tokens": 60771
+    },
+    {
+        "product": "Coolify",
+        "website": "https://coolify.io/",
+        "llms-txt": "https://coolify.io/docs/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://coolify.io/docs/llms-full.txt"
     },
     {
         "product": "devunus",
@@ -1550,11 +1589,11 @@
         "llms-full-txt-tokens": null
     },
     {
-      "product": "Coolify",
-      "website": "https://coolify.io/",
-      "llms-txt": "https://coolify.io/docs/llms.txt",
-      "llms-full-txt": "https://coolify.io/docs/llms-full.txt"
-      "llms-txt-tokens": null
+        "product": "Coolify",
+        "website": "https://coolify.io/",
+        "llms-txt": "https://coolify.io/docs/llms.txt",
+        "llms-full-txt": "https://coolify.io/docs/llms-full.txt",
+        "llms-txt-tokens": null
     },
     {
         "product": "DataForSEO",
@@ -1562,7 +1601,7 @@
         "llms-txt": "https://docs.dataforseo.com/v3/llms.txt",
         "llms-txt-tokens": null,
         "llms-full-txt": "",
-        "llms-full-txt-tokens": null     
+        "llms-full-txt-tokens": null
     },
     {
         "product": "Future-First Design",
@@ -1571,63 +1610,63 @@
         "llms-full-txt": ""
     },
     {
-      "product": "ApyHub",
-      "website": "https://apyhub.com/",
-      "llms-txt": "https://apyhub.com/llms.txt",
-      "llms-full-txt": ""
+        "product": "ApyHub",
+        "website": "https://apyhub.com/",
+        "llms-txt": "https://apyhub.com/llms.txt",
+        "llms-full-txt": ""
     },
     {
         "product": "Chainspect",
         "website": "https://chainspect.app/",
         "llms-txt": "https://chainspect.app/llms.txt",
-        "llms-full-txt": "" 
+        "llms-full-txt": ""
     },
     {
-      "product": "Pass App",
-      "website": "https://pass.app/",
-      "llms-full-txt": "https://pass.app/llms.txt",
-      "llms-txt-tokens": 926,
-      "llms-txt": ""      
+        "product": "Pass App",
+        "website": "https://pass.app/",
+        "llms-full-txt": "https://pass.app/llms.txt",
+        "llms-txt-tokens": 926,
+        "llms-txt": ""
     },
     {
-      "product": "SVGViewer.app",
-      "website": "https://svgviewer.app/",
-      "llms-txt": "https://svgviewer.app/llms.txt",
-      "llms-txt-tokens": 494,
-      "llms-full-txt": "https://svgviewer.app/llms-full.txt",
-      "llms-full-txt-tokens": 1312
+        "product": "SVGViewer.app",
+        "website": "https://svgviewer.app/",
+        "llms-txt": "https://svgviewer.app/llms.txt",
+        "llms-txt-tokens": 494,
+        "llms-full-txt": "https://svgviewer.app/llms-full.txt",
+        "llms-full-txt-tokens": 1312
     },
     {
-      "product": "QwQ AI",
-      "website": "https://qwq32.com/",
-      "llms-txt": "https://qwq32.com/llms.txt",
-      "llms-txt-tokens": 260,
-      "llms-full-txt": "https://qwq32.com/llms-full.txt",
-      "llms-full-txt-tokens": 260
+        "product": "QwQ AI",
+        "website": "https://qwq32.com/",
+        "llms-txt": "https://qwq32.com/llms.txt",
+        "llms-txt-tokens": 260,
+        "llms-full-txt": "https://qwq32.com/llms-full.txt",
+        "llms-full-txt-tokens": 260
     },
     {
-      "product": "BestFreeAI",
-      "website": "https://bestfreeai.net/",
-      "llms-txt": "https://bestfreeai.net/llms.txt",
-      "llms-txt-tokens": 58670,
-      "llms-full-txt": "",
-      "llms-full-txt-tokens": null
+        "product": "BestFreeAI",
+        "website": "https://bestfreeai.net/",
+        "llms-txt": "https://bestfreeai.net/llms.txt",
+        "llms-txt-tokens": 58670,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
-      "product": "LogLayer",
-      "website": "https://loglayer.dev/",
-      "llms-txt": "https://loglayer.dev/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "https://loglayer.dev/llms-full.txt",
-      "llms-full-txt-tokens": null
+        "product": "LogLayer",
+        "website": "https://loglayer.dev/",
+        "llms-txt": "https://loglayer.dev/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://loglayer.dev/llms-full.txt",
+        "llms-full-txt-tokens": null
     },
     {
-      "product": "Headless Tree",
-      "website": "https://headless-tree.lukasbach.com/",
-      "llms-txt": "https://headless-tree.lukasbach.com/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "https://headless-tree.lukasbach.com/llms-full.txt",
-      "llms-full-txt-tokens": null      
+        "product": "Headless Tree",
+        "website": "https://headless-tree.lukasbach.com/",
+        "llms-txt": "https://headless-tree.lukasbach.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://headless-tree.lukasbach.com/llms-full.txt",
+        "llms-full-txt-tokens": null
     },
     {
         "product": "Orma.digital",
@@ -1665,20 +1704,28 @@
         "llms-txt-tokens": null
     },
     {
-      "product": "Adobe Experience Manager",
-      "website": "https://www.aem.live/",
-      "llms-txt": "https://www.aem.live/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "",
-      "llms-full-txt-tokens": null
+        "product": "Adobe Experience Manager",
+        "website": "https://www.aem.live/",
+        "llms-txt": "https://www.aem.live/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
-      "product": "Sanalife E360",
-      "website": "https://www.sanalifeenergy.com/",
-      "llms-txt": "https://www.sanalifeenergy.com/llms.txt",
-      "llms-txt-tokens": null,
-      "llms-full-txt": "",
-      "llms-full-txt-tokens": null
+        "product": "Adobe Experience Manager",
+        "website": "https://www.aem.live/",
+        "llms-txt": "https://www.aem.live/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Sanalife E360",
+        "website": "https://www.sanalifeenergy.com/",
+        "llms-txt": "https://www.sanalifeenergy.com/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
     },
     {
         "product": "YourOpinion.is",
@@ -1693,7 +1740,47 @@
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
-    }
+    },
+    {
+        "product": "Pursuit",
+        "website": "https://pursuit.us/",
+        "llms-full-txt": "",
+        "llms-txt": "https://app.pursuit.us/llms.txt"
+    },
+    {
+        "product": "TransitionZero",
+        "website": "https://transitionzero.org/",
+        "llms-full-txt": "https://docs.transitionzero.org/llms-full.txt",
+        "llms-txt": "https://docs.transitionzero.org/llms.txt"
+    },
+    {
+        "product": "Oaks Home Services, Professional Landscaping Contractor",
+        "website": "https://oakshs.ca/",
+        "llms-txt": "https://oakshs.ca/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "BEN'S Plumbing & HVAC Services in Seattle",
+        "website": "https://bens.plumbing/",
+        "llms-txt": "https://bens.plumbing/llms.txt",
+        "llms-txt-tokens": null,
+        "llms-full-txt": "",
+        "llms-full-txt-tokens": null
+    },
+    {
+        "product": "Robert DeVore",
+        "website": "https://robertdevore.com/",
+        "llms-full-txt": "",
+        "llms-txt": "https://robertdevore.com/llms.txt"
+    },
+    {
+        "product": "The ENT Resident",
+        "website": "https://www.theentresident.com/",
+        "llms-full-txt": "",
+        "llms-txt": "https://www.theentresident.com/llms.txt"
+    },
     {
         "product": "HYPESTUDIO",
         "website": "https://hypestudio.org/",
@@ -1705,5 +1792,17 @@
         "website": "https://www.ohdiary.com/",
         "llms-full-txt": "",
         "llms-txt": "https://www.ohdiary.com/llms.txt"
-    }    
+    },
+    {
+        "product": "Estrategia del Contenido",
+        "website": "https://www.estrategiadelcontenido.com/",
+        "llms-full-txt": "",
+        "llms-txt": "https://www.estrategiadelcontenido.com/llms.txt"
+    },
+    {
+        "product": "Tenthe AI Dictionary",
+        "website": "https://tenthe.com/",
+        "llms-txt": "https://tenthe.com/llms.txt",
+        "llms-full-txt": "https://tenthe.com/llms-full.txt"
+    }
 ]
