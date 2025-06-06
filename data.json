@@ -1943,5 +1943,13 @@
         "website": "https://tenthe.com/",
         "llms-txt": "https://tenthe.com/llms.txt",
         "llms-full-txt": "https://tenthe.com/llms-full.txt"
+    },
+    {
+        "product": "MATTERS: Marketing",
+        "website": "https://matters.com.br/",
+        "llms-txt": "https://matters.com.br/llms.txt"
+        "llms-txt-tokens": null,
+        "llms-full-txt": "https://matters.com.br/llms-full.txt",
+        "llms-full-txt-tokens": null
     }
 ]
